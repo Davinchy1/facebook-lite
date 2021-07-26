@@ -1,1 +1,1 @@
-web: gunicorn facebook_lite.wsgi
+# web: gunicorn facebook_lite.wsgi
